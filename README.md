@@ -20,7 +20,7 @@ The **Data Insights Chatbot** is an interactive web application built with Strea
 ---
 ## Streamlit Deployed Application link
 
-Application:[Chatbot](https://langchat-chatbot.streamlit.app/)
+Application:[Chatbot](https://langchain-datachat.streamlit.app/)
 
 ```bash
 Username - sbsra
