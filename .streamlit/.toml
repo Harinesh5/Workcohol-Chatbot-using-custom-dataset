@@ -1,3 +1,6 @@
 GEMINI_API_KEY = "your-google-api-key"
 USERNAME = "username"
 PASSWORD = "password"
+LANGCHAIN_TRACING_V2="true"
+LANGCHAIN_API_KEY="your-langsmith-api-key"
+LANGCHAIN_PROJECT="your-project-name"
